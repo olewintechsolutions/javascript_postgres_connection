@@ -1,0 +1,2 @@
+# javascript_postgres_connection
+connect postgresdb using javascript
